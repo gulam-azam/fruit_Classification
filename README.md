@@ -11,3 +11,7 @@ The model achieved high accuracy, demonstrating robust applicability in educatio
 
 ## Future Enhancements
 Future improvements will include expanding the diversity of fruit images and refining the model to enhance recognition accuracy for visually similar fruits.
+
+## Fruit App Website
+Upload a fruit Image and see the magic. Currently it can identify 53 Categories of fruits.
+https://fruitnet.streamlit.app/
